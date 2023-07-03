@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    width: 1920px;
+    height: 5155px;
+    background-color: black;
+}
+
+
+header{
+    width: 1298px;
+    height: 60px;
+    display: flex;
+    margin: 30px auto 0 auto;
+}
+
+nav{
+    
+        margin: 30px auto 0 auto;
+}
+nav a{
+    
+    color: white;    
+    margin-left: 50px;
+      
+    }
+button{
+    
+    justify-items: flex-end;
+    padding: 9px 25px 9px 15px;
+    color: white;
+    background-color: cornflowerblue;
+    border-radius: 6px;
+}
+
+#foto,#foto2{
+position: relative;
+margin-top: 25px;
+}
+
+#foto2{
+    top: -65px;
+    left: -12px;
+}
